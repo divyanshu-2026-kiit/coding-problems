@@ -68,5 +68,5 @@ print(result4)
 result6 =  obj.slicing(6,10)
 print(result6)
 
-import keyword
-print(keyword.kwlist)
+
+
